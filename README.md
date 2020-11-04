@@ -2,7 +2,7 @@
 
 A simple imc calculator made with React Native
 
-<img src=".git/test.git">
+<img src="./.git/test.gif">
 
 
 ## License
