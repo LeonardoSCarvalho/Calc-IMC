@@ -7,7 +7,7 @@
 
 
 
-  <img alt="Demo on Netlify" src="img/t">
+  <img alt="Demo on Netlify" src="img/test.gif">
 </p>
 
 
